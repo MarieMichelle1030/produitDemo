@@ -1,0 +1,33 @@
+{
+  "produits": [
+    {
+      "noProduit": "00341302",
+      "description": "Wood Sofa Bed.",
+      "marque": "Primo",
+      "modele": "Appleton",
+      "collection": "blablabla",
+      "caracteristique": "tv 48 pouces bla bla",
+      "typeProduit": "R",
+      "discontinue": false,
+      "nonRenouvelable": false,
+      "spiff": "ABCDE.FG",
+      "spiffCond": "ABCDE.FG",
+      "qteMagasin": 12345,
+      "qteInventaire": 12345,
+      "prochaineDispoJit": "2017-08-08",
+      "prixVenteReg": 599.99,
+      "prixPromo": 499.99,
+      "debutPrixProbo": "2017-08-08",
+      "finPrixPromo": "2017-08-08",
+      "coutantPlancher": "ABCDE.FG",
+      "versementSugg": 24,
+      "venduSepare": false,
+      "promoApplicable": true,
+      "partieEnsemble": false
+    }
+  ],
+  "limitationDepasse": false,
+  "totalCount": 125,
+  "pageCount": 10,
+  "page": 1
+}
